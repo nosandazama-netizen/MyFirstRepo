@@ -1,3 +1,4 @@
+What I have learned from this course
 Something I have learned in this course is how to use Git and GitHub to manage projects
 I now understand how to create repositories, make commits, work with branches
 and use pull requests to collaborate with others
